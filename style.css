@@ -1,32 +1,28 @@
 @charset "utf-8";
 
 body {
-		margin: 0;
-	}
-	.redbox {
-		width: 400px;
-		height: 100px;
-		background: #ff0000;
-		margin: 0px;
-	}
-	.main {
-		display: flex;
-		}
-	.greenbox {
-		width: 150px;
-		height: 250px;
-		background: #00ff1e;
-	}
-	.bluebox {
-		width: 250px;
-		height: 250px;
-		background: #3300ff;
-	}
-	.yellowbox {
-		width: 400px;
-		height: 100px;
-		background: #ffe600;
-	}
-
-	
-	
+	margin: 0;
+}
+.redbox {
+	width: 400px;
+	height: 100px;
+	background: #ff0000;
+}
+.main {
+	float: left;
+}
+.greenbox {
+	width: 150px;
+	height: 250px;
+	background: #00ff1e;
+}
+.bluebox {
+	width: 250px;
+	height: 250px;
+	background: #3300ff;
+}
+.yellowbox {
+	width: 400px;
+	height: 100px;
+	background: #ffe600;
+}
