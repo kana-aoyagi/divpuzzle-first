@@ -4,7 +4,7 @@ body {
   width: 100%;
 }
 .wrapper {
-	width: 400px;
+  width: 400px;
 }
 .redbox {
   width: 400px;
@@ -29,8 +29,8 @@ body {
   background: #ffe600;
 }
 .clearfix:after {
-	content: "";
-	display: block;
-	clear: both;
-	height: 0;
+  content: "";
+  display: block;
+  clear: both;
+  height: 0;
 }
