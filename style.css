@@ -18,7 +18,7 @@ body {
   background: #00ff1e;
 }
 .bluebox {
-  float: right;
+  float: left;
   width: 250px;
   height: 250px;
   background: #3300ff;
