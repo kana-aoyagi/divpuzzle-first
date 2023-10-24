@@ -7,7 +7,6 @@ body {
   width: 400px;
 }
 .redbox {
-  width: 400px;
   height: 100px;
   background: #ff0000;
 }
@@ -24,7 +23,6 @@ body {
   background: #3300ff;
 }
 .yellowbox {
-  width: 400px;
   height: 100px;
   background: #ffe600;
 }
